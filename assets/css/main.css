@@ -1,0 +1,25 @@
+.bg {
+    /* The image used */
+    background-image: url("../img/bg/baseball.jpg"); 
+   /* Full height */
+    height:860px; 
+    width:100%;
+      /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  .para{  
+    padding: 150px; 
+    text-align: center;
+       }
+  .log-img{
+    margin-left: 10px;
+    margin-top: 10px;
+    width:80px;
+  }
+  a {
+    color: white;
+    text-decoration: transparent;
+    background-color: transparent;
+}
